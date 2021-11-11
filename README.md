@@ -1,0 +1,2 @@
+# string20
+equalsignorecase
